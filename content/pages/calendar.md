@@ -6,15 +6,108 @@ uid: f5c6b795-5faf-2b56-7d7e-f365c1b867d0
 
 The topics in the table below were discussed during this seminar.
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Specific Language Impairment |
-| 2 | Autism, part 1 |
-| 3 | Autism, part 2 |
-| 4 | Autism, part 3 |
-| 5 | Fragile X and Rett's Syndrome |
-| 6 | William's Syndrome, part 1 |
-| 7 | William's Syndrome, part 2 |
-| 8 | Down's Syndrome, part 1 |
-| 9 | Down's Syndrome, part 2 |
-| 10 | Wrap-up and class presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Specific Language Impairment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Autism, part 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Autism, part 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Autism, part 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Fragile X and Rett's Syndrome
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+William's Syndrome, part 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+William's Syndrome, part 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Down's Syndrome, part 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Down's Syndrome, part 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap-up and class presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
