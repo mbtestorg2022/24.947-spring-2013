@@ -38,7 +38,7 @@ Paul, Rhea. "Definitions and Models of Language Disorders in Children." Chapter 
 
 Chomsky, Noam. "Knowledge of Language as a Focus of Inquiry." Chapter 1 in _Knowledge of Language: Its Nature, Origins, and Use_. Praeger, 1986. ISBN: 9780275917616. \[Preview with [Google Books](http://books.google.com/books?id=b0VZPtZDL8kC&pg=PA1=onepage)\]
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Review of B.F. Skinner's Verbal Behavior." (PDF - 1.42MB)](https://chomsky.info/1967____/) _Language_ 35, no. 1 (1959): 26–58.
+———. ["A Review of B.F. Skinner's Verbal Behavior." (PDF - 1.42MB)](https://chomsky.info/1967____/) _Language_ 35, no. 1 (1959): 26–58.
 
 Clahsen, Harald. "Linguistic Perspectives on Specific Language Impairment." Chapter 19 in _Handbook of Child Language Acquisition_. Edited by William C. Ritchie and Tej K. Bhatia. Emerald Group Publishing, 1998. ISBN: 9780125890410.
 
